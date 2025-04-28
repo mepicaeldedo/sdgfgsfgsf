@@ -71,6 +71,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-28 02:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-28 02:12:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-04-28 01:56:22 +0000"
@@ -92,6 +104,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-04-28 01:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-28 02:11:40 +0000"
     },
     "done": true
   },
@@ -137,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-28 02:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-04-28 01:56:21 +0000"
@@ -146,6 +170,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-28 01:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-28 02:11:41 +0000"
     },
     "done": true
   },
@@ -227,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-04-28 02:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-28 01:56:22 +0000"
@@ -260,6 +296,18 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-28 02:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-04-28 02:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-28 02:11:41 +0000"
     },
     "done": true
   },
@@ -341,9 +389,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-04-28 02:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-28 02:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-28 02:03:50 +0000",
+      "minecraft:spider": "2025-04-28 02:11:40 +0000",
       "minecraft:zombie": "2025-04-28 02:00:12 +0000"
     },
     "done": false
@@ -357,6 +418,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-04-28 01:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-28 02:12:59 +0000"
     },
     "done": true
   },
@@ -378,9 +445,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-28 02:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-28 02:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-04-28 02:11:41 +0000"
     },
     "done": true
   },
@@ -466,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-28 02:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-28 02:01:59 +0000"
@@ -474,9 +559,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-04-28 02:05:09 +0000"
+      "cooked_porkchop": "2025-04-28 02:05:09 +0000",
+      "cooked_beef": "2025-04-28 02:13:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-04-28 02:12:59 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -520,6 +612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-28 02:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-28 02:07:58 +0000"
@@ -550,6 +648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-04-28 02:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-28 01:56:22 +0000"
@@ -568,9 +672,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-28 02:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-28 02:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-28 02:12:59 +0000"
     },
     "done": true
   },
