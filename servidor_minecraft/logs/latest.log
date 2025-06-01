@@ -597,3 +597,500 @@
 [01Jun2025 00:57:42.325] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
 [01Jun2025 00:57:42.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
 [01Jun2025 00:57:42.377] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 00:57:57.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WinterGato_ has made the advancement [Isn't It Iron Pick]
+[01Jun2025 00:58:07.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 00:58:07.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 00:58:07.204] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 00:58:07.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 00:58:07.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 00:58:07.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 00:58:07.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 00:58:07.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 00:58:07.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 00:58:07.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 00:58:07.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 00:58:07.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 00:58:08.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 00:58:08.403] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 00:58:08.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 00:58:08.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 00:58:08.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 00:58:08.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 00:58:29.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WinterGato_ has made the advancement [Not Today, Thank You]
+[01Jun2025 00:58:41.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 00:58:41.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 00:58:41.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 00:58:41.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 00:58:41.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 00:58:41.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 00:58:41.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 00:58:41.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 00:58:41.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 00:58:41.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 00:58:41.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 00:58:41.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 00:58:42.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 00:58:42.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 00:58:42.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 00:58:42.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 00:58:42.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 00:58:42.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 00:59:07.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 00:59:07.510] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 00:59:07.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 00:59:07.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 00:59:07.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 00:59:07.513] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 00:59:07.513] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 00:59:07.513] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 00:59:07.514] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 00:59:07.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 00:59:07.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 00:59:07.864] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 00:59:08.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 00:59:08.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 00:59:08.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 00:59:08.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 00:59:08.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 00:59:08.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 00:59:41.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 00:59:41.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 00:59:41.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 00:59:41.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 00:59:41.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 00:59:41.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 00:59:41.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 00:59:41.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 00:59:41.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 00:59:41.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 00:59:42.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 00:59:42.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 00:59:42.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 00:59:42.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 00:59:43.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 00:59:43.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 00:59:43.145] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 00:59:43.145] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:00:02.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lauzun: Teleported WinterGato_ to Lauzun]
+[01Jun2025 01:00:07.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:00:07.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:00:07.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:00:07.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:00:07.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:00:07.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:00:07.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:00:07.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:00:07.843] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:00:08.116] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:00:08.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:00:09.119] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:00:09.119] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:00:09.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:00:09.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:00:14.000] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:00:15.002] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:00:15.003] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:00:24.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrRodriYT2 has made the advancement [Acquire Hardware]
+[01Jun2025 01:00:27.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lauzun has made the advancement [Acquire Hardware]
+[01Jun2025 01:00:42.012] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:00:42.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:00:42.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:00:42.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:00:42.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:00:42.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:00:42.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:00:42.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:00:42.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:00:42.178] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:00:42.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:00:42.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:00:43.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:00:43.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:00:43.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:00:43.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:00:43.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:00:43.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:01:08.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:01:08.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:01:08.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:01:08.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:01:08.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:01:08.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:01:08.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:01:08.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:01:08.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:01:08.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:01:08.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:01:08.667] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:01:09.280] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:01:09.280] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:01:09.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:01:09.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:01:09.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:01:09.673] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:01:21.190] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:01:21.191] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:01:21.191] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:01:21.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:01:22.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:01:22.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:01:42.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:01:42.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:01:42.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:01:42.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:01:42.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:01:42.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:01:42.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:01:42.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:01:42.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:01:42.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:01:42.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:01:42.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:01:43.487] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:01:43.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:01:43.524] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:01:43.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:01:43.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:01:43.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:01:58.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrRodriYT2 has made the advancement [Not Today, Thank You]
+[01Jun2025 01:01:59.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lauzun has made the advancement [Monster Hunter]
+[01Jun2025 01:02:08.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:02:08.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:02:08.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:02:08.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:02:08.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:02:08.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:02:08.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:02:08.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:02:08.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:02:08.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:02:08.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:02:08.787] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:02:09.652] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:02:09.652] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:02:09.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:02:09.673] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:02:09.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:02:09.786] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:02:35.941] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6c6aa65f
+[01Jun2025 01:02:35.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zarc_[/127.158.98.248:42007] logged in with entity id 2825 at (-8.5, 64.0, 22.5)
+[01Jun2025 01:02:35.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zarc_ joined the game
+[01Jun2025 01:02:37.938] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zarc_ (18)
+[01Jun2025 01:02:37.939] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zarc_
+[01Jun2025 01:02:40.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lauzun has made the advancement [Not Today, Thank You]
+[01Jun2025 01:02:41.667] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:02:41.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:02:41.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:02:41.849] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:02:42.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:02:42.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:02:42.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:02:42.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:02:42.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:02:42.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:02:42.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:02:42.849] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:02:42.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:02:42.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:02:43.107] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:02:43.714] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:02:43.715] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zarc_ (441028cc-cb70-3a71-9aaf-088a8aea12f2) successfully connected to voice chat
+[01Jun2025 01:02:43.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:02:43.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:02:44.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:02:44.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:03:01.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zarc_> ./keepinventori true
+[01Jun2025 01:03:03.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WinterGato_> ./gamerule keepinventory true
+[01Jun2025 01:03:08.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 441028cc-cb70-3a71-9aaf-088a8aea12f2 timed out
+[01Jun2025 01:03:08.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Zarc_
+[01Jun2025 01:03:08.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Zarc_
+[01Jun2025 01:03:08.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:03:08.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:03:08.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:03:08.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:03:08.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:03:08.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:03:08.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:03:08.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:03:08.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:03:08.950] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:03:08.977] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:03:09.029] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:03:09.164] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:03:09.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:03:09.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:03:09.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:03:09.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zarc_ (441028cc-cb70-3a71-9aaf-088a8aea12f2) successfully connected to voice chat
+[01Jun2025 01:03:10.030] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:03:10.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:03:10.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:03:10.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:03:30.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lauzun: Gamerule keepInventory is now set to: true]
+[01Jun2025 01:03:34.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7, y=66, z=8} BlockPos{x=6, y=66, z=16}
+[01Jun2025 01:03:34.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7, y=66, z=8} BlockPos{x=7, y=66, z=17}
+[01Jun2025 01:03:38.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrRodriYT2 has made the advancement [Monster Hunter]
+[01Jun2025 01:03:42.959] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 441028cc-cb70-3a71-9aaf-088a8aea12f2 timed out
+[01Jun2025 01:03:42.959] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Zarc_
+[01Jun2025 01:03:42.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Zarc_
+[01Jun2025 01:03:42.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:03:42.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:03:42.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:03:42.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:03:42.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:03:42.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:03:42.962] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:03:42.962] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:03:42.962] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:03:43.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:03:43.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:03:43.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:03:43.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:03:44.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:03:44.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:03:44.175] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:03:44.175] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:03:44.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:03:44.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zarc_ (441028cc-cb70-3a71-9aaf-088a8aea12f2) successfully connected to voice chat
+[01Jun2025 01:03:44.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:03:44.357] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:03:55.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 441028cc-cb70-3a71-9aaf-088a8aea12f2 timed out
+[01Jun2025 01:03:55.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Zarc_
+[01Jun2025 01:03:55.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Zarc_
+[01Jun2025 01:03:55.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:03:55.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:03:55.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:03:55.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:03:55.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:03:56.136] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:03:56.136] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:03:56.270] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:03:56.270] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zarc_ (441028cc-cb70-3a71-9aaf-088a8aea12f2) successfully connected to voice chat
+[01Jun2025 01:04:02.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrRodriYT2 was struck by lightning
+[01Jun2025 01:04:02.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lauzun was struck by lightning
+[01Jun2025 01:04:03.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zarc_> me escuchan ?
+[01Jun2025 01:04:09.100] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:04:09.101] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:04:09.101] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:04:09.101] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 441028cc-cb70-3a71-9aaf-088a8aea12f2 timed out
+[01Jun2025 01:04:09.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Zarc_
+[01Jun2025 01:04:09.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Zarc_
+[01Jun2025 01:04:09.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:04:09.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:04:09.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:04:09.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:04:09.104] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:04:09.104] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:04:09.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:04:09.324] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:04:09.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:04:09.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:04:10.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:04:10.270] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:04:10.320] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:04:10.320] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:04:10.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:04:10.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zarc_ (441028cc-cb70-3a71-9aaf-088a8aea12f2) successfully connected to voice chat
+[01Jun2025 01:04:10.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:04:10.392] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:04:25.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lauzun> te escuchas vajito
+[01Jun2025 01:04:37.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zarc_ was slain by OmeDweller
+[01Jun2025 01:04:43.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 441028cc-cb70-3a71-9aaf-088a8aea12f2 timed out
+[01Jun2025 01:04:43.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Zarc_
+[01Jun2025 01:04:43.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Zarc_
+[01Jun2025 01:04:43.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:04:43.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:04:43.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:04:43.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:04:43.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:04:43.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:04:43.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:04:43.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:04:43.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:04:43.425] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:04:43.548] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:04:43.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:04:43.613] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:04:44.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:04:44.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zarc_ (441028cc-cb70-3a71-9aaf-088a8aea12f2) successfully connected to voice chat
+[01Jun2025 01:04:44.540] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:04:44.540] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:04:44.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:04:44.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:04:44.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:04:44.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:04:46.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrRodriYT2 was slain by OmeDweller
+[01Jun2025 01:05:04.359] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 441028cc-cb70-3a71-9aaf-088a8aea12f2 timed out
+[01Jun2025 01:05:04.359] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Zarc_
+[01Jun2025 01:05:04.359] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Zarc_
+[01Jun2025 01:05:04.359] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:05:04.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:05:04.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:05:04.493] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:05:04.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:05:05.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:05:05.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:05:05.523] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:05:05.523] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zarc_ (441028cc-cb70-3a71-9aaf-088a8aea12f2) successfully connected to voice chat
+[01Jun2025 01:05:09.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:05:09.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:05:09.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:05:09.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:05:09.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:05:09.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:05:09.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:05:09.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:05:10.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:05:10.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:05:10.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:05:10.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:05:43.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 441028cc-cb70-3a71-9aaf-088a8aea12f2 timed out
+[01Jun2025 01:05:43.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Zarc_
+[01Jun2025 01:05:43.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Zarc_
+[01Jun2025 01:05:43.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:05:43.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:05:43.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:05:43.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:05:43.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:05:43.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:05:43.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:05:43.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:05:43.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:05:43.738] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:05:43.804] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:05:43.822] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:05:44.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:05:44.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:05:44.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:05:44.805] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:05:44.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zarc_ (441028cc-cb70-3a71-9aaf-088a8aea12f2) successfully connected to voice chat
+[01Jun2025 01:05:44.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:05:44.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:05:45.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:05:45.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:05:56.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrRodriYT2 has made the advancement [Stone Age]
+[01Jun2025 01:06:09.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 441028cc-cb70-3a71-9aaf-088a8aea12f2 timed out
+[01Jun2025 01:06:09.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Zarc_
+[01Jun2025 01:06:09.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Zarc_
+[01Jun2025 01:06:09.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:06:09.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:06:09.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:06:09.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:06:09.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:06:09.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:06:09.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:06:09.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:06:09.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:06:09.756] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:06:09.766] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:06:09.871] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:06:09.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:06:10.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:06:10.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:06:10.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:06:10.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zarc_ (441028cc-cb70-3a71-9aaf-088a8aea12f2) successfully connected to voice chat
+[01Jun2025 01:06:10.871] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:06:10.871] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:06:10.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:06:10.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:06:20.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zarc_ has made the advancement [Stone Age]
+[01Jun2025 01:06:43.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 441028cc-cb70-3a71-9aaf-088a8aea12f2 timed out
+[01Jun2025 01:06:43.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Zarc_
+[01Jun2025 01:06:43.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Zarc_
+[01Jun2025 01:06:43.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:06:43.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:06:43.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:06:43.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:06:43.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:06:43.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:06:43.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:06:43.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:06:43.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:06:43.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:06:44.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:06:44.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:06:44.897] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:06:44.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:06:44.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zarc_ (441028cc-cb70-3a71-9aaf-088a8aea12f2) successfully connected to voice chat
+[01Jun2025 01:06:45.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:06:45.020] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:06:45.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:06:45.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:06:45.898] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:06:45.898] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:06:56.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zarc_ has made the advancement [Getting an Upgrade]
+[01Jun2025 01:06:59.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 441028cc-cb70-3a71-9aaf-088a8aea12f2 timed out
+[01Jun2025 01:06:59.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Zarc_
+[01Jun2025 01:06:59.843] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Zarc_
+[01Jun2025 01:06:59.843] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 84614d33-f8ae-3ecf-997e-06027b70774c timed out
+[01Jun2025 01:06:59.843] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player WinterGato_
+[01Jun2025 01:06:59.843] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:06:59.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:06:59.996] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:07:07.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lauzun: Teleported Zarc_ to Lauzun]
+[01Jun2025 01:07:09.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:07:09.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:07:09.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:07:09.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5 timed out
+[01Jun2025 01:07:09.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lauzun
+[01Jun2025 01:07:09.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:07:10.127] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:07:10.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:07:11.129] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:07:11.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[01Jun2025 01:07:11.256] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:07:11.256] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:07:20.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zarc_> se bug el mc
+[01Jun2025 01:07:22.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zarc_> wtf
+[01Jun2025 01:07:30.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WinterGato_ lost connection: Disconnected
+[01Jun2025 01:07:30.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WinterGato_ left the game
+[01Jun2025 01:07:30.644] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WinterGato_
+[01Jun2025 01:07:31.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrRodriYT2> salgan y entren
+[01Jun2025 01:07:33.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zarc_ lost connection: Disconnected
+[01Jun2025 01:07:33.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zarc_ left the game
+[01Jun2025 01:07:33.945] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zarc_
+[01Jun2025 01:07:34.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lauzun lost connection: Disconnected
+[01Jun2025 01:07:34.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lauzun left the game
+[01Jun2025 01:07:34.496] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lauzun
+[01Jun2025 01:07:37.751] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@45d5c34a
+[01Jun2025 01:07:37.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zarc_[/127.158.98.248:58945] logged in with entity id 3898 at (-95.49810706944784, 62.0, 81.73955125326722)
+[01Jun2025 01:07:37.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zarc_ joined the game
+[01Jun2025 01:07:37.896] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e66bdcb
+[01Jun2025 01:07:37.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lauzun[/127.118.75.133:46127] logged in with entity id 3901 at (-109.97720673864463, 65.0, 80.3038543078701)
+[01Jun2025 01:07:37.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lauzun joined the game
+[01Jun2025 01:07:37.949] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zarc_ (18)
+[01Jun2025 01:07:37.950] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zarc_
+[01Jun2025 01:07:38.189] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lauzun (18)
+[01Jun2025 01:07:38.189] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[01Jun2025 01:07:39.195] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[01Jun2025 01:07:42.335] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:07:43.336] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 441028cc-cb70-3a71-9aaf-088a8aea12f2
+[01Jun2025 01:07:43.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zarc_ (441028cc-cb70-3a71-9aaf-088a8aea12f2) successfully connected to voice chat
+[01Jun2025 01:07:45.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6477768c-a5f4-31b3-b029-b4fae8cd9712 timed out
+[01Jun2025 01:07:45.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MrRodriYT2
+[01Jun2025 01:07:45.096] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MrRodriYT2
+[01Jun2025 01:07:45.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:07:46.095] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2471f56f
+[01Jun2025 01:07:46.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WinterGato_[/127.79.150.22:46071] logged in with entity id 3915 at (-107.4323301414269, 64.0, 84.3575622144415)
+[01Jun2025 01:07:46.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WinterGato_ joined the game
+[01Jun2025 01:07:46.277] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WinterGato_ (18)
+[01Jun2025 01:07:46.278] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WinterGato_
+[01Jun2025 01:07:46.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6477768c-a5f4-31b3-b029-b4fae8cd9712
+[01Jun2025 01:07:46.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MrRodriYT2 (6477768c-a5f4-31b3-b029-b4fae8cd9712) successfully connected to voice chat
+[01Jun2025 01:07:47.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zarc_ has made the advancement [Monster Hunter]
+[01Jun2025 01:07:49.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:07:50.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 84614d33-f8ae-3ecf-997e-06027b70774c
+[01Jun2025 01:07:50.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WinterGato_ (84614d33-f8ae-3ecf-997e-06027b70774c) successfully connected to voice chat
+[01Jun2025 01:07:53.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Jun2025 01:07:53.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Jun2025 01:07:53.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Jun2025 01:07:53.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WinterGato_ lost connection: Server closed
+[01Jun2025 01:07:53.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WinterGato_ left the game
+[01Jun2025 01:07:53.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Jun2025 01:07:54.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Jun2025 01:07:56.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Jun2025 01:07:56.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Jun2025 01:07:56.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Jun2025 01:07:56.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Jun2025 01:07:56.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Jun2025 01:07:56.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Jun2025 01:07:56.735] [Thread-0/INFO] [de.cadentem.cant_breathe.CantBreathe/]: Server configuration has been reloaded
