@@ -1,0 +1,90 @@
+---- Minecraft Crash Report ----
+// Why is it breaking :(
+
+Time: 2025-06-01 00:42:04
+Description: Exception in server tick loop
+
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.player.Player.m_20252_(float)" because "viewSource" is null
+	at net.omenaso.omenasomod.common.utils.PlayerTargetingHelper.moveToPosition(PlayerTargetingHelper.java:129) ~[omenaso-0.3.3+1.19.2%20(1).jar%23109!/:0.3.3+1.19.2] {re:classloading}
+	at net.omenaso.omenasomod.common.utils.PlayerTargetingHelper.moveToPosition(PlayerTargetingHelper.java:125) ~[omenaso-0.3.3+1.19.2%20(1).jar%23109!/:0.3.3+1.19.2] {re:classloading}
+	at net.omenaso.omenasomod.server.events.OmebuddySpawnHandler.spawnOmebuddy(OmebuddySpawnHandler.java:72) ~[omenaso-0.3.3+1.19.2%20(1).jar%23109!/:0.3.3+1.19.2] {re:classloading}
+	at net.omenaso.omenasomod.server.logic.OmedwellerTransformHandler.lambda$transformationToOmebuddy$2(OmedwellerTransformHandler.java:50) ~[omenaso-0.3.3+1.19.2%20(1).jar%23109!/:0.3.3+1.19.2] {re:classloading}
+	at net.omenaso.omenasomod.MainMod.lambda$tick$1(MainMod.java:67) ~[omenaso-0.3.3+1.19.2%20(1).jar%23109!/:0.3.3+1.19.2] {re:classloading}
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?] {}
+	at net.omenaso.omenasomod.MainMod.tick(MainMod.java:67) ~[omenaso-0.3.3+1.19.2%20(1).jar%23109!/:0.3.3+1.19.2] {re:classloading}
+	at net.omenaso.omenasomod.__MainMod_tick_ServerTickEvent.invoke(.dynamic) ~[omenaso-0.3.3+1.19.2%20(1).jar%23109!/:0.3.3+1.19.2] {re:classloading,pl:eventbus:B}
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?] {}
+	at net.minecraftforge.event.ForgeEventFactory.onPostServerTick(ForgeEventFactory.java:849) ~[forge-1.19.2-43.4.2-universal.jar%23118!/:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:843) ~[server-1.19.2-20220805.130853-srg.jar%23113!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23113!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23113!/:?] {re:classloading,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Linux (amd64) version 6.8.0-1027-azure
+	Java Version: 17.0.14, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 4468067880 bytes (4261 MiB) / 6442450944 bytes (6144 MiB) up to 17179869184 bytes (16384 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 7995.00
+	Virtual memory used (MB): 8912.80
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xms2G -Xmx16G
+	Server Running: true
+	Player Count: 3 / 20; [ServerPlayer['WinterGato_'/526, l='ServerLevel[world]', x=-38.56, y=76.18, z=-500.02], ServerPlayer['MrRodriYT2'/622, l='ServerLevel[world]', x=-30.12, y=76.00, z=-491.98], ServerPlayer['Lauzun'/673, l='ServerLevel[world]', x=-34.13, y=76.00, z=-487.70]]
+	Data Packs: vanilla, mod:forge, mod:omenaso, mod:voicechat (incompatible), mod:geckolib3 (incompatible), mod:cant_breathe, mod:ezvcsurvival (incompatible)
+	World Generation: Stable
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+	ModLauncher: 10.0.8+10.0.8+main.0ef7e830
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.3.jar eventbus PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.8.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		server-1.19.2-20220805.130853-srg.jar             |Minecraft                     |minecraft                     |1.19.2              |DONE      |Manifest: NOSIGNATURE
+		omenaso-0.3.3+1.19.2 (1).jar                      |Omedweller                    |omenaso                       |0.3.3+1.19.2        |DONE      |Manifest: NOSIGNATURE
+		voicechat-forge-1.19.2-2.5.30.jar                 |Simple Voice Chat             |voicechat                     |1.19.2-2.5.30       |DONE      |Manifest: NOSIGNATURE
+		forge-1.19.2-43.4.2-universal.jar                 |Forge                         |forge                         |43.4.2              |DONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		geckolib-forge-1.19-3.1.40.jar                    |GeckoLib                      |geckolib3                     |3.1.40              |DONE      |Manifest: NOSIGNATURE
+		cant_breathe-1.19.2-2.0.7 (1).jar                 |CANTBREATHE                   |cant_breathe                  |2.0.7               |DONE      |Manifest: NOSIGNATURE
+		ezvcsurvival-forge-1.19.2-1.0.1.jar               |Voiceless Survival            |ezvcsurvival                  |1.0.1               |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: 1eab7b1c-9d1f-44ef-a50f-5195f3e889f1
+	FML: 43.4
+	Forge: net.minecraftforge:43.4.2
